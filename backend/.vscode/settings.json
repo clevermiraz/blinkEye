@@ -1,0 +1,8 @@
+{
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true,
+    "editor.fontFamily": "Victor Mono",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 14,
+    "editor.cursorBlinking": "expand"
+}
